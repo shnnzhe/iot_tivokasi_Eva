@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "TrafficLight01",
+			"path": "../TrafficLight01"
+		},
+		{
+			"name": "HumiditySensor01",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
